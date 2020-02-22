@@ -1,0 +1,13 @@
+ header {
+     background-color:blue;
+ }
+
+ div {
+     float:left;
+     width:49%;
+ }
+
+ p {
+    font-weight:bold;
+    font-size:24px; 
+ }
